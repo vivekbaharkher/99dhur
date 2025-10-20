@@ -1,0 +1,11 @@
+node_modules
+# Next.js Build and Cache
+.next/
+out/
+
+# Node dependencies
+node_modules/
+
+# Other common ignores
+npm-debug.log
+.DS_Store
